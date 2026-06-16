@@ -1,0 +1,9 @@
+PyQt6
+PyOpenGL
+networkx
+requests
+beautifulsoup4
+aiohttp
+python-whois
+dnspython
+openai
